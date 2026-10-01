@@ -1,0 +1,17 @@
+{
+  "id": "lifestyle",
+  "name": "Lifestyle & Culture",
+  "description": "Vibrant and aesthetic portal for culinary, travel, fashion, and modern trends with rose pink tones.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Lifestyle",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Photo Stories",
+    "Instagram Feed Ready",
+    "Card Overlays",
+    "Newsletter Focus"
+  ],
+  "required_theme_version": "1.0.0"
+}

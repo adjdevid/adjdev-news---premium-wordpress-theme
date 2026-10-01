@@ -1,0 +1,44 @@
+/**
+ * ADJDEV News Dark Mode Specific Enhancements
+ */
+
+[data-theme="dark"],
+.dark-mode {
+  color-scheme: dark;
+}
+
+[data-theme="dark"] img,
+.dark-mode img {
+  opacity: 0.95;
+  transition: opacity 0.2s ease;
+}
+
+[data-theme="dark"] img:hover,
+.dark-mode img:hover {
+  opacity: 1;
+}
+
+/* Dark mode inputs and forms */
+[data-theme="dark"] input[type="text"],
+[data-theme="dark"] input[type="search"],
+[data-theme="dark"] input[type="email"],
+[data-theme="dark"] textarea,
+[data-theme="dark"] select,
+.dark-mode input[type="text"],
+.dark-mode input[type="search"],
+.dark-mode input[type="email"],
+.dark-mode textarea,
+.dark-mode select {
+  background-color: var(--adjdev-surface);
+  border-color: var(--adjdev-border);
+  color: var(--adjdev-text);
+}
+
+[data-theme="dark"] code,
+[data-theme="dark"] pre,
+.dark-mode code,
+.dark-mode pre {
+  background-color: #161b22;
+  border-color: #30363d;
+  color: #79c0ff;
+}

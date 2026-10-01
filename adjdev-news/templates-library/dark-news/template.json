@@ -1,0 +1,17 @@
+{
+  "id": "dark-news",
+  "name": "Dark News Edition",
+  "description": "OLED-optimized dark theme engineered for late-night readers, high-contrast cyan neon, and eye-comfort.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Dark Mode",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "OLED Optimized",
+    "Eye Care Palette",
+    "Reading Time",
+    "Progress Indicator"
+  ],
+  "required_theme_version": "1.0.0"
+}

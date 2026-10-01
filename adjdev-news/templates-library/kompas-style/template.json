@@ -1,0 +1,17 @@
+{
+  "id": "kompas-style",
+  "name": "National Broadsheet (Kompas Style)",
+  "description": "Classic authoritative broadsheet layout with balanced 3-column sections, deep navy branding, and trusted editorial hierarchy.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Broadsheet",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "3-Column Grid",
+    "Editorial Headline",
+    "Fact-Check Badges",
+    "Custom Breadcrumbs"
+  ],
+  "required_theme_version": "1.0.0"
+}

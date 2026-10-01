@@ -1,0 +1,17 @@
+{
+  "id": "portal-regional",
+  "name": "Portal Regional & Daerah",
+  "description": "Community and regional journalism portal designed for provincial media with teal styling and event tickers.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Regional News",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Local Districts Menu",
+    "Community Wire",
+    "Citizen Journalism Box",
+    "Event Ticker"
+  ],
+  "required_theme_version": "1.0.0"
+}

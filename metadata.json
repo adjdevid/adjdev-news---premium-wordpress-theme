@@ -1,0 +1,8 @@
+{
+  "name": "ADJDEV News - Premium WordPress Theme",
+  "description": "Premium, lightweight, modular WordPress news & magazine theme with modern Theme Options, Template Library, and builder-ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

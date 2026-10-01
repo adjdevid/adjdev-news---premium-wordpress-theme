@@ -1,0 +1,17 @@
+{
+  "id": "portal-nasional",
+  "name": "Portal Nasional RI",
+  "description": "National state and public affairs media theme with dignified crimson red accents and public policy focus.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Government / Policy",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Official Announcements",
+    "Document Archives",
+    "Fullwidth Topbar",
+    "Public Notice"
+  ],
+  "required_theme_version": "1.0.0"
+}

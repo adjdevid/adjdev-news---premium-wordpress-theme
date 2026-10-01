@@ -1,0 +1,17 @@
+{
+  "id": "detik-style",
+  "name": "High Velocity (Detik Style)",
+  "description": "Fast-breaking news portal with dense headline lists, real-time ticker, viral highlight badges, and high ad revenue slot density.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Breaking News",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Live Ticker",
+    "High Density List",
+    "Ad Hotspots",
+    "Trending Numerical"
+  ],
+  "required_theme_version": "1.0.0"
+}

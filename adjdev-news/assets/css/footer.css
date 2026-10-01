@@ -1,0 +1,130 @@
+/**
+ * ADJDEV News Footer Stylesheet
+ */
+
+.site-footer {
+  margin-top: 60px;
+  border-top: 1px solid var(--adjdev-border);
+}
+
+.site-footer.footer-dark {
+  background: #090d16;
+  color: #94a3b8;
+  border-top-color: #1e293b;
+}
+
+.site-footer.footer-light {
+  background: #f8fafc;
+  color: #475569;
+}
+
+.footer-main-widgets {
+  padding: 60px 0 40px 0;
+}
+
+.footer-widgets-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 36px;
+}
+
+@media (min-width: 640px) {
+  .footer-widgets-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .footer-widgets-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.footer-widget-title {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.footer-light .footer-widget-title {
+  color: #0f172a;
+}
+
+.footer-widget p {
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.footer-widget ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-widget ul li {
+  margin-bottom: 10px;
+}
+
+.footer-widget ul li a {
+  color: inherit;
+  font-size: 0.92rem;
+}
+
+.footer-widget ul li a:hover {
+  color: var(--adjdev-primary);
+}
+
+/* Footer Bottom Bar */
+.footer-bottom-bar {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 24px 0;
+  font-size: 0.85rem;
+}
+
+.footer-light .footer-bottom-bar {
+  border-top-color: var(--adjdev-border);
+}
+
+.footer-bottom-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .footer-bottom-inner {
+    flex-direction: row;
+    text-align: left;
+  }
+}
+
+.footer-social-links {
+  display: flex;
+  gap: 12px;
+}
+
+.footer-social-link {
+  width: 34px;
+  height: 34px;
+  border-radius: var(--adjdev-radius-sm);
+  background: rgba(255, 255, 255, 0.06);
+  color: #ffffff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--adjdev-transition);
+}
+
+.footer-light .footer-social-link {
+  background: #e2e8f0;
+  color: #1e293b;
+}
+
+.footer-social-link:hover {
+  background: var(--adjdev-primary);
+  color: #ffffff;
+  transform: translateY(-2px);
+}

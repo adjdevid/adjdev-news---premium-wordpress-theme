@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0F172A"/>
+  <rect x="20" y="20" width="760" height="460" rx="8" stroke="#1E293B" stroke-width="2" stroke-dasharray="8 8"/>
+  <circle cx="400" cy="220" r="48" fill="#1062FE" fill-opacity="0.15"/>
+  <path d="M380 200H420V240H380V200Z" stroke="#1062FE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M380 230L393 217L405 229L415 219L420 224" stroke="#1062FE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="295" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="1">ADJDEV NEWS</text>
+  <text x="400" y="320" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">High Performance Media Template</text>
+</svg>

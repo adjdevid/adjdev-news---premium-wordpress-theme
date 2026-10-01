@@ -1,0 +1,17 @@
+{
+  "id": "minimal-news",
+  "name": "Minimal News",
+  "description": "Pure typography-driven minimalist aesthetic with zero distractions, elegant whitespace, and high reading engagement.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Minimal",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Zero Distraction",
+    "Monochrome Palette",
+    "Fast Typography",
+    "Center Focus"
+  ],
+  "required_theme_version": "1.0.0"
+}

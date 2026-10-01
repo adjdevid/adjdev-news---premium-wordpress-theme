@@ -1,0 +1,13 @@
+{
+  "header_layout": "magazine",
+  "color_primary": "#d97706",
+  "color_secondary": "#1c1917",
+  "color_accent": "#f59e0b",
+  "homepage_hero_style": "grid",
+  "blog_layout": "overlay",
+  "single_sidebar_position": "right",
+  "site_layout": "fullwidth",
+  "container_width": 1280,
+  "breaking_news_enable": false,
+  "dark_mode_enable": true
+}

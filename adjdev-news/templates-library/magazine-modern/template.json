@@ -1,0 +1,17 @@
+{
+  "id": "magazine-modern",
+  "name": "Magazine Modern",
+  "description": "Visual lifestyle and cultural magazine with expansive hero imagery, card carousels, and warm golden accents.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Magazine",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Fullwidth Hero",
+    "Visual Overlays",
+    "Category Sections",
+    "Author Showcases"
+  ],
+  "required_theme_version": "1.0.0"
+}

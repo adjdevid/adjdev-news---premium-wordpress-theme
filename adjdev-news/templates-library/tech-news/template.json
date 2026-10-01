@@ -1,0 +1,17 @@
+{
+  "id": "tech-news",
+  "name": "Tech & Cyber News",
+  "description": "Futuristic tech publication layout with emerald accents, specs blocks, code highlights, and dark-first aesthetic.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Technology",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Dark Mode Native",
+    "Code Blocks",
+    "Review Badges",
+    "Spec Grids"
+  ],
+  "required_theme_version": "1.0.0"
+}

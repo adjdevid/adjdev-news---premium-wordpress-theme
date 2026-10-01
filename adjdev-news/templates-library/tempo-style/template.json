@@ -1,0 +1,17 @@
+{
+  "id": "tempo-style",
+  "name": "Investigative Tempo Style",
+  "description": "Original investigative portal layout inspired by deep-dive journalism, prominent opinion columns, and crisp crimson accents.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Investigative",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "In-depth Analysis",
+    "Opinion Blocks",
+    "Archive Filtering",
+    "Compact List"
+  ],
+  "required_theme_version": "1.0.0"
+}

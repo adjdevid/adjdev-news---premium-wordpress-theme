@@ -1,0 +1,17 @@
+{
+  "id": "editorial",
+  "name": "Editorial & Essays",
+  "description": "Literary, essayist, and column-heavy layout with classic serif headlines, dual-column dividers, and longform focus.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "Editorial",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Serif Typography",
+    "Longform Layout",
+    "Footnotes Support",
+    "Column Dividers"
+  ],
+  "required_theme_version": "1.0.0"
+}

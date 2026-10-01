@@ -1,0 +1,13 @@
+{
+  "header_layout": "classic",
+  "color_primary": "#b91c1c",
+  "color_secondary": "#1e293b",
+  "color_accent": "#dc2626",
+  "homepage_hero_style": "classic",
+  "blog_layout": "grid",
+  "single_sidebar_position": "right",
+  "site_layout": "fullwidth",
+  "container_width": 1220,
+  "breaking_news_enable": true,
+  "dark_mode_enable": false
+}

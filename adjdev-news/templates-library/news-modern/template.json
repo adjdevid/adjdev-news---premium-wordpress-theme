@@ -1,0 +1,18 @@
+{
+  "id": "news-modern",
+  "name": "News Modern",
+  "description": "Flagship contemporary digital news portal featuring hero grid, dynamic dark mode, and ultra-fast Core Web Vitals.",
+  "version": "1.0.0",
+  "author": "ADJDEV",
+  "category": "General News",
+  "preview": "preview.svg",
+  "screenshot": "screenshot.svg",
+  "supported_features": [
+    "Hero Grid",
+    "Breaking Ticker",
+    "Dark Mode",
+    "TOC",
+    "Reading Progress"
+  ],
+  "required_theme_version": "1.0.0"
+}
